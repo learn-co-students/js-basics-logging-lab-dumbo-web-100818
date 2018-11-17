@@ -3,6 +3,7 @@
 ## Objectives
 1. Practice using `console.log()`
 
+
 ## Introduction
 Another JavaScript lab! In this lab, we are practicing our use of `console.log` to debug in JavaScript.
 
